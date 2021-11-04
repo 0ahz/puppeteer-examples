@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-examples",
+  "version": "1.0.0",
+  "description": "Examples for using Puppeteer to do some things.",
+  "main": "index.js",
+  "author": "0ahz",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {
+    "@0ahz/prettier-config": "^0.0.2"
+  }
+}
